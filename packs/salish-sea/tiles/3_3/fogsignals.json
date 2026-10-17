@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.97681,48.42668]},"properties":{"class":"Fog_Signal","band":"harbor","DSNM":"US5WA1FL.000","CATFOG":9,"SCAMIN":29999,"SHOW":"0-499999","SHOWALL":"0-600000","OBJNAM":"Salmon Bank Lighted Gong Buoy 3","onStructure":"Buoy_Lateral"}}]}

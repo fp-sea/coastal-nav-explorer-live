@@ -1,0 +1,6 @@
+Real recordings used by Coastal Nav Explorer (others are synthesized approximations).
+
+diaphone-east-brother.mp3
+  "Original foghorn at East Brother Island Lighthouse" (California), by Elwood P. Dowd,
+  Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Original_foghorn_at_East_Brother_Island_Lighthouse.ogg
+  Licence: CC0 1.0 (public domain dedication). Converted to MP3 and loudness-normalised; not otherwise edited.

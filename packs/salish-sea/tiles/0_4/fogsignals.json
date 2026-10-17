@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-124.4851,48.53454]},"properties":{"class":"Fog_Signal","band":"coastal","DSNM":"US3WA1EE.000","CATFOG":8,"SCAMIN":999999,"SHOW":"0-600000","SHOWALL":"0-600000","OBJNAM":"Port San Juan Lighted Whistle Buoy YK","onStructure":"Buoy_Safe_Water"}}]}

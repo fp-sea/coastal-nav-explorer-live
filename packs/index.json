@@ -1,0 +1,55 @@
+{
+ "regions": [
+  {
+   "id": "hawaii-alenuihaha-kona",
+   "name": "Alenuihaha Channel and Kona Coast (Hawaii)",
+   "area": "Hawaii",
+   "center": [
+    -156.05,
+    19.95
+   ],
+   "bbox": [
+    -156.87,
+    18.73,
+    -155.48,
+    21.07
+   ],
+   "zoom": 8.4,
+   "built": "2026-10-13T06:56:22+00:00"
+  },
+  {
+   "id": "salish-sea",
+   "name": "Salish Sea (U.S. waters)",
+   "area": "Pacific Northwest",
+   "center": [
+    -122.7,
+    48.05
+   ],
+   "bbox": [
+    -124.87,
+    46.88,
+    -122.08,
+    48.97
+   ],
+   "zoom": 8.6,
+   "built": "2026-10-13T06:53:22+00:00"
+  },
+  {
+   "id": "vineyard-to-block-island",
+   "name": "Martha's Vineyard to Block Island (training chart area)",
+   "area": "Southern New England",
+   "center": [
+    -71.12,
+    41.42
+   ],
+   "bbox": [
+    -71.78,
+    40.98,
+    -70.46,
+    41.91
+   ],
+   "zoom": 9.4,
+   "built": "2026-10-13T06:40:23+00:00"
+  }
+ ]
+}

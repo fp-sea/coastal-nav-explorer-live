@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-124.66571,47.8898]},"properties":{"class":"Fog_Signal","band":"approach","DSNM":"US4WA1HC.000","CATFOG":8,"SCAMIN":259999,"SHOW":"0-499999","SHOWALL":"0-600000","OBJNAM":"Quillayute River Approach Lighted Whistle Buoy Q","onStructure":"Buoy_Safe_Water"}}]}
