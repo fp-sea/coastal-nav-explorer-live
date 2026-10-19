@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-124.33967,48.48567]},"properties":{"class":"Buoy_Special_Purpose_General","band":"coastal","DSNM":"US3WA1EE.000","OBJNAM":"ODAS buoy","COLOUR":"6","BOYSHP":7,"SCAMIN":999999,"SHOW":"0-600000","SHOWALL":"0-600000"}}]}

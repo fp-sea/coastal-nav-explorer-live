@@ -1,0 +1,4 @@
+Paper-chart (INT1 / U.S. Chart No. 1 style) point symbols from Esri "nautical-chart-symbols"
+https://github.com/Esri/nautical-chart-symbols (CustomPresentationLibrary/symbols/point)
+Commit: b99177454d6e50c9d90ce120e13846ec40c1a9af 2025-01-30. Copied 2026-10-12. Licensed under the Apache License 2.0 (LICENSE.txt).
+Unmodified. Used by Coastal Nav Explorer to show the paper-chart symbol of each charted feature.
